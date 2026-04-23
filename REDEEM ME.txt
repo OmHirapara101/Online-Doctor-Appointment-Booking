@@ -1,0 +1,12 @@
+First Import Database Name "edoc"
+
+Admin :- om@gmail.com
+	password:- om@123
+
+
+Patient :- viraj@gmail.com
+	password:- Viraj@123
+
+
+Doctor :- khush@gmail.com
+	password:- Khush@123
